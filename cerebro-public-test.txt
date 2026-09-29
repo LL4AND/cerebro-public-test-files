@@ -1,0 +1,13 @@
+Cerebro Public File Connectivity Test
+
+Document ID: cerebro-public-txt-v1
+Created: 2026-09-29
+Encoding: UTF-8
+Content type: text/plain
+
+This public file is intended for testing direct download, ingestion, text extraction, summarization, indexing, and recall in Cerebro.
+
+Unique retrieval phrase: 星轨灯塔协议
+Verification sentence: 当系统能够检索到“星轨灯塔协议”时，说明这份公开文本已经完成内容读取或索引。
+
+This file contains no credentials, private user data, or confidential business information.
